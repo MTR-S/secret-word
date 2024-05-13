@@ -1,0 +1,19 @@
+.gameWin {
+    width: 58vw;
+}
+
+.winTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Jaro";
+}
+
+.winTitle h1 {
+    color: #EAE712;
+    text-shadow: 4px 4px #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4.1em;
+    height: 100px;
+    width: 58vw;
+}

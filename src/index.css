@@ -1,0 +1,14 @@
+html {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+  background-color: #9CD1E6;
+}
