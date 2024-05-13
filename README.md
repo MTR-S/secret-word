@@ -1,4 +1,5 @@
 # Secret Word 🔎
+Maded by: MTR-S
 
 ## Description
 * Secret Word is browser game using React and Typescript where you have to discover the secret word with just one hint to win and of course, wining with the most points possible!
@@ -18,4 +19,5 @@ yarn install
 
 ## How to play
 Click on the button "start" on the first page, choose your game difficulty and have fun!
+
 ![image](https://github.com/MTR-S/secret-word/assets/133928872/5c40ce4e-74ce-48f2-9eee-a90688ba979e)
