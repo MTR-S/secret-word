@@ -7,7 +7,7 @@ Maded by: MTR-S
 * React components allowed me to organize my code.
 
 ## How to Install
-You can clone this repository or click on this link: [Secret Word](secret-word-alpha-henna.vercel.app)  and see in your browser! 
+You can clone this repository or click on this link: [Secret Word](https://secret-word-alpha-henna.vercel.app/)  and see in your browser! 
 * If you choose to clone, after the installation you have to download the node modules, you can do this by using npm or yarn:
 ~~~NPM
 npm install
